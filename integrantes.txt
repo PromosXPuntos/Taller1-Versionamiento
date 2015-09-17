@@ -3,3 +3,6 @@ Juan Felipe Arango
 Jeisson Prieto
 Jorge Bonilla
 Manuel Felipe Jimenez
+
+Libro "Guía definitiva de Grails" 2003
+Nos toca exponer el tema GORM el día 22 de Octubre (Tema superimportante)
